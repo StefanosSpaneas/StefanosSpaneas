@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-App Development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : stef.spaneas97@gnail.com
+- 📫 How to reach me : stef.spaneas97@gmail.com
 
 <!---
 StefanosSpaneas/StefanosSpaneas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
